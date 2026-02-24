@@ -47,3 +47,8 @@ Resolved vulnerabilities are disclosed through:
 
 - [GitHub Security Advisories](https://github.com/buildpacks/community/security/advisories)
 - Release notes for the affected project
+
+## Audits
+
+* The Cloud Native Buildpacks project completed a third party security audit on 2024-07-17 funded by the CNCF. You can view the audit report on the [OSTIF blog](https://ostif.org/buildpacks-audit-complete/).
+* As part of the incubation process, the Cloud Native Buildpacks project completed a self assessment on 2021-09-07. The self assessment can be found in the [`cncf/toc` repo](https://github.com/hone/toc/blob/master/projects/buildpacks/security-assessment/self-assessment.md).
